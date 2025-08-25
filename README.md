@@ -3,6 +3,28 @@
 Track your progress while learning Go.  
 You can use this file directly or convert each section into GitHub Issues with checklists.
 
+## 📋 Creating Issues for Learning Sections
+
+This repository includes GitHub issue templates for each learning section. You can create issues in two ways:
+
+### Option 1: Automated Script (Recommended)
+Run the provided script to create all issues at once:
+```bash
+./create-learning-issues.sh
+```
+
+### Option 2: Manual Creation
+1. Go to the [Issues tab](../../issues)
+2. Click "New Issue"
+3. Select the appropriate template for the section you want to track
+4. Customize the title and add any additional notes
+5. Create the issue
+
+Each issue template includes:
+- ✅ Complete checklist of learning objectives
+- 📚 Relevant resources and documentation links
+- 📝 Space for your notes and code examples
+
 ---
 
 ## 🟢 1. Go Basics (Language Core)
